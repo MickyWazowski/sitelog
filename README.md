@@ -1,3 +1,3 @@
 # SiteLog
 
-Construction project tracker for strata jobs.
+Job status, work orders and resourcing tracker for PMs.

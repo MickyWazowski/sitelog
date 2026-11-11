@@ -1,3 +1,3 @@
 # SiteLog
-Construction project tracker.
 
+Construction project tracker for strata jobs.
